@@ -48,6 +48,10 @@ header {
      font-weight: lighter;
      font-size: 1.55vw;
    }
+   section {
+     padding: 60px;
+     background-image: url("Assets/images/hero-bg.jpeg");
+   }
    footer {
      background: #fce138;
      width: 100%;
