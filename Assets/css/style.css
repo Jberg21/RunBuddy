@@ -37,10 +37,6 @@ header {
      justify-content: space-between;
      align-items: center;
      list-style: none;
-    
-   }
-   header nav ul li {
-     display: inline;
    }
 
    header nav ul li a {
