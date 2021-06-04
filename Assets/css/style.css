@@ -141,7 +141,7 @@ header {
   
    /* Hero Style Start */
    .hero {
-    background-image: url("/Users/jberg/Desktop/Bootcamp/RunBuddy/Assets/images/hero-bg.jpeg");
+    background-image: url("Assets/images/flipped-hero-image.jpeg");
     background-size: cover;
     display: flex;
     justify-content: center;
