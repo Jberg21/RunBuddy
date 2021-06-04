@@ -23,7 +23,7 @@ header {
     position: -webkit-sticky;
     position: sticky;
     top: 0;
-    background-image: url("Assets/images/flipped-hero-image.jpeg");
+    background-image: url(Assets/images/flipped-hero-image.jpeg);
     background-size: cover;
     background-attachment: fixed;
     background-position: 80%;
@@ -141,7 +141,7 @@ header {
   
    /* Hero Style Start */
    .hero {
-    background-image: url("https://github.com/Jberg21/RunBuddy/blob/f959cb50070c1b98848295e54ac2afe3a4845fa4/Assets/images/flipped-hero-image.jpeg");
+    background-image: url(https://github.com/Jberg21/RunBuddy/blob/f959cb50070c1b98848295e54ac2afe3a4845fa4/Assets/images/flipped-hero-image.jpeg);
     background-size: cover;
     display: flex;
     justify-content: center;
